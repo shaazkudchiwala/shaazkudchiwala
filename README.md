@@ -21,4 +21,4 @@
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/shaazk) • [Email](shaazkudchiwala@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/shaazk) • [Email](mailto:shaazkudchiwala@gmail.com)
