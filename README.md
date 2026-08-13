@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shaaz 👋
 
-<!--
-**shaazkudchiwala/shaazkudchiwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Robotics & AI Engineering student | AI • Systems • Blockchain Security**
 
-Here are some ideas to get you started:
+## Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building across Robotics, AI, and Web3
+- **Foundry → Smart Contract Security → Blockchain Research**
+
+
+## Tech (Core)
+
+`Python` `Solidity` `Foundry` `Web3 Wallet Security` `Embedded Systems` `C/C++`
+
+## Featured Projects
+
+🤖 [AI Search Algorithms & Projects](https://github.com/shaazkudchiwala/ai-search-algorithms-and-projects)  
+⚙️ [ESP32 Intrusion Detection](https://github.com/shaazkudchiwala/esp32-intrusion-detection)  
+🧠 [Raspberry Pi AI Projects](https://github.com/shaazkudchiwala/raspberry-pi-ai-projects)  
+⛓️ [Solidity FundMe](https://github.com/shaazkudchiwala/solidity-fundme)
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/shaazk) • [Email](shaazkudchiwala@gmail.com)
