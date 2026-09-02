@@ -14,10 +14,12 @@
 
 ## Featured Projects
 
-🤖 [AI Search Algorithms & Projects](https://github.com/shaazkudchiwala/ai-search-algorithms-and-projects)  
-⚙️ [ESP32 Intrusion Detection](https://github.com/shaazkudchiwala/iot-intrusion-detection-system)  
-🧠 [Raspberry Pi AI Projects](https://github.com/shaazkudchiwala/raspberry-pi-ai-projects)  
+🤖 [AI Search Algorithms & Projects](https://github.com/shaazkudchiwala/ai-search-algorithms-and-projects) 
 ⛓️ [Solidity FundMe](https://github.com/shaazkudchiwala/solidity-fundme)
+🫆 [Privacy-preserving cryptographic unique verification - Website related to Organ Donation](https://github.com/shaazkudchiwala/life-recycled)
+⚙️ [ESP32 Intrusion Detection](https://github.com/shaazkudchiwala/iot-intrusion-detection-system)  
+🦾 [Raspberry Pi AI Projects](https://github.com/shaazkudchiwala/raspberry-pi-ai-projects)  
+
 
 ## Connect
 
